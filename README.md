@@ -5,8 +5,8 @@
 <br>
 
 ## 📋 Overview 📋
-![Hooni's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungzzok&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungzzok)
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=seungzzok&show_icons=true&theme=default"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungzzok&layout=donut"/>
 <br>
 <br>
 <br>
