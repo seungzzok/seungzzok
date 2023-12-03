@@ -55,7 +55,8 @@
 ## 💌 Contact 💌
 <a href="mailto:kimmyunghwan0314@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tokykj515@gmail.com"/></a>
 <a href="mailto:ki2684@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
-
+<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=white&logo=KakaoTalk">
+<a href="https://www.instagram.com/s_h0o0ni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=00A9FF&height=80&section=footer)
 
