@@ -1,6 +1,6 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=soft&color=00A9FF&height=100&section=header&text=Welcome%20to%20Seungzzok's%20Github!&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=00A9FF&height=100&section=header&text=Welcome%20to%20Seungzzok's%20Github!&fontSize=30&fontColor=ffffff&animation=fadeIn)
 <br>
 <br>
 
@@ -57,6 +57,6 @@
 <a href="mailto:ki2684@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=A0E9FF&height=50&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=00A9FF&height=80&section=footer)
 
 </div>
