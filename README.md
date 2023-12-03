@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome%20to%20Hooni's%20Github!&fontSize=32)
 
-![Hooni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooni&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooni&layout=compact)
 
 
