@@ -37,11 +37,24 @@
 <br>
 
 ## 🛠️ Tools 🛠️
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> 
+<br>
 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
+<br>
+<br>
 
 
 ## 💌 Contact 💌
-
+<a href="mailto:kimmyunghwan0314@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tokykj515@gmail.com"/></a>
+<a href="mailto:ki2684@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:tokykj515@naver.com"/></a>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=A0E9FF&height=50&section=footer)
